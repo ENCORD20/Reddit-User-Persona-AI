@@ -1,0 +1,66 @@
+🧠 USER PERSONA: kojied
+
+Here's a structured user persona based on the provided Reddit activity:
+
+---
+
+### User Persona: The Reflective Tech-Savvy Urbanite
+
+**Summary:** This individual is a thoughtful, analytical, and highly tech-oriented professional, likely in the software development field. They are deeply interested in emerging technologies, particularly AR/VR and spatial computing, and actively engage with technical communities. Beyond tech, they exhibit a strong sense of social responsibility, a critical perspective on societal norms and power structures, and a pragmatic approach to personal finance and consumerism. They are observant of their surroundings, reflective about their experiences, and enjoy engaging in detailed discussions.
+
+---
+
+**1. Interests**
+
+*   **Emerging Technologies (especially AR/VR/Spatial Computing):** A core interest, evident in discussions about Apple Vision Pro, Vision Air, and specific development challenges. They are an early adopter and likely a developer in this space.
+    *   **Quote 1:** "I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post: "Best blogs, tutorial channels to learn")
+    *   **Quote 2:** "I think Pokemon could be one of the killer use case for the vision pro. Imagine, you could fight players from around the world from the comfort of your couch. With the recent controversy around Palworld, they're looking for the next 'Pokemon Go' that would propel their franchise to the next level." (Post: "Would you guys like to see Pokemon Go in AVP?")
+*   **Finance, Investing, and Ethical Consumerism:** Engages in discussions about investment strategies, market trends, and developing frameworks for conscious spending and social impact.
+    *   **Quote 1:** "I’ve been trading options for the past month or so, and have made good money. But I’ve realized recently that many put options have become quite expensive..." (Post: "Still buying options?")
+    *   **Quote 2:** "Do you think individuals should be aware of our own ESG rating? I feel that companies would take ESG ratings seriously if consumers changed their purchase behaviors based on the score." (Post: "Tracking our individual impacts on the world through ESG ratings")
+*   **Gaming & Strategy (PC/Simulation):** Demonstrates detailed knowledge and interest in game mechanics and strategic planning, particularly for simulation/city-builder games.
+    *   **Quote 1:** "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey." (Comment on an unprovided post)
+    *   **Quote 2:** "I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border. That way you're basically managing three cities at once." (Comment on an unprovided post)
+*   **Pop Culture & Social Commentary:** Observant of generational shifts, media trends, and societal narratives, sometimes connecting them to broader philosophical or historical theories.
+    *   **Quote 1:** "There's so many coming of age movies for boomers and millennials, what about for gen-Z?" (Post: "What’s a movie that best represents your childhood?")
+    *   **Quote 2:** "Watching Edgerunners on the moon feels" (Post: "Watching Edgerunners on the moon feels")
+
+**2. Communication Style**
+
+*   **Analytical and Inquisitive:** Frequently poses questions to solicit community feedback, opinions, or solutions, often diving into technical or strategic details.
+    *   **Quote 1:** "H1B holders, what are your thoughts on the narrative that you are being exploited?" (Post: "H1B holders, what are your thoughts on the narrative that you are being exploited?")
+    *   **Quote 2:** "I’m curious if people have been able to fully port their workflow into AVP. ...what apps you’d like to see ASAP." (Post: "Can you actually “work” in AVP?")
+*   **Reflective and Self-Aware:** Capable of strong initial reactions but then engages in self-reflection and attempts to understand differing perspectives.
+    *   **Quote 1:** "Naturally I felt violated. But then again, I thought to myself. Am I not the same as they are, just at a longer time horizon? I'm also a transient being in the city." (Post: "I feel violated by intern season")
+*   **Detailed and Explanatory:** Provides thorough context, personal experiences, and elaborate theories or proposals, often including mock-ups or specific examples.
+    *   **Quote 1:** "My initial idea was an app that would enable users to track the 'gratification' they receive from their purchases. If you regret what you bought, you can record a decline in the gratification, or if you found the purchase better than you expected, you can record an increase." (Post: "How do you decide what to buy and not buy?")
+    *   **Quote 2:** "The birth of Western history is in the Middle East, specifically Iraq (Nippur). Which is why the west, led by the US, has been trying to cause instability, and destroy historical artifacts." (Post: "【Theory】 What if we live in the void 800 century")
+*   **Direct and Opinionated:** Expresses clear personal viewpoints, but usually in the context of opening a discussion rather than shutting one down.
+    *   **Quote 1:** "the NFT craze has not settled into something sustainable, it's dead. Can it come back? Possibly, it has happened before... I personally don't think it would in the way we think of NFTs as collectables." (Comment on an unprovided post)
+    *   **Quote 2:** "Apple wants AVP to be a 'work device', they gotta have at least Xcode right?" (Post: "Can you actually “work” in AVP?")
+
+**3. Beliefs or Values**
+
+*   **Ethical Responsibility and Social Impact:** Believes in individual and corporate accountability, advocating for systems that promote sustainable and conscious behavior.
+    *   **Quote 1:** "Individual ESG scores could elevate sustainable conscience to another level, which would lead to climate activism on a larger scale." (Post: "Tracking our individual impacts on the world through ESG ratings")
+    *   **Quote 2:** "I feel that companies would take ESG ratings seriously if consumers changed their purchase behaviors based on the score." (Post: "Tracking our individual impacts on the world through ESG ratings")
+*   **Skepticism of Established Narratives:** Questions mainstream history, power dynamics, and the motivations of influential entities.
+    *   **Quote 1:** "What I’m saying is that it’s pretty easy for the '1%' to control the 'story of our world' through archeologists and historians. These have traditionally been an activity for the rich and remains that way." (Post: "【Theory】 What if we live in the void 800 century")
+*   **Progress Through Technology and Innovation:** Sees technology as a key driver for improvement in work, entertainment, and potentially even societal impact.
+    *   **Quote 1:** "I'm confident that this will eventually become a thing, but the faster they ship the more AVP adoption we'll see." (Post: "Would you guys like to see Pokemon Go in AVP?")
+    *   **Quote 2:** "I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not been the easiest..." (Highlights a desire for tech to be fully functional for work)
+*   **Personal Growth and Optimization:** Seeks to understand and improve personal decision-making processes, especially regarding consumption and gratification.
+    *   **Quote 1:** "is there a way to develop a mental model on what we buy or don't buy? I feel that most people decide what to buy based on past experiences, gut feeling, or the mood of that day." (Post: "How do you decide what to buy and not buy?")
+
+**4. Location**
+
+*   **New York City, USA:** Frequently mentions specific NYC locations and describes experiences highly indicative of living in or being intimately familiar with the city.
+    *   **Quote 1:** "There's this bar that I frequent a few blocks away from my house. Technically different neighborhood... I realize that there were now tens of thousands of 18 year-old 19 year-old 20-year-olds who were all living on top of each other and were super young and horny to basically use the New York nightlife as their own personal orgy dome." (Post: "I feel violated by intern season")
+    *   **Quote 2:** "Breakfast - Buvette / Coffee - Lyria / Lunch - Tsukemen okiboru / Coffee - La cabra / Dinner - Isodi / Drinks - Double chicken please" (Comment listing very specific and well-known NYC food/drink establishments.)
+*   **US (Broader context):** Discusses topics relevant to the US socio-political and economic landscape.
+    *   **Quote 1:** "H1B holders, what are your thoughts on the narrative that you are being exploited?" (Post: "H1B holders, what are your thoughts on the narrative that you are being exploited?")
+    *   **Quote 2:** "Are you guys for/against banning Tiktok in the US?" (Post: "Are you guys for/against banning Tiktok in the US?")
+
+---
+
+→ Generated using Google Gemini Pro
