@@ -9,4 +9,5 @@ A python based project capable of scraping comments and posts by a redditor and 
 ## Table of contents
 
 -[Installation](#installation)
+
 -[Usage](#usage)
