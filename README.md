@@ -44,3 +44,7 @@ Outputs a structured persona including:
 
 - Includes a .gitignore to prevent .env from being tracked in version control.
 
+## 🛠️Setup & Installation
+1. **Open your editor**
+2. **Open the Terminal** - Typically, you can do this from a 'Terminal' tab or by using a shortcut (e.g., Ctrl + ~ for Windows or Control + ~ for Mac in VS Code).
+3. **Clone the Repository and Navigate into the Directory** - Once your terminal is open, you can clone the repository and move into the directory by running the commands below.
