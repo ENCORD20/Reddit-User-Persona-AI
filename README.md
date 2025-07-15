@@ -12,7 +12,6 @@ A python based project capable of scraping comments and posts by a redditor and 
 
 -[Setup & Installation](#setup&installation)
 
--[Usage](#usage)
 
 ## 🚀Features
 
@@ -44,7 +43,37 @@ Outputs a structured persona including:
 
 - Includes a .gitignore to prevent .env from being tracked in version control.
 
+
 ## 🛠️Setup & Installation
 1. **Open your editor**
-2. **Open the Terminal** - Typically, you can do this from a 'Terminal' tab or by using a shortcut (e.g., Ctrl + ~ for Windows or Control + ~ for Mac in VS Code).
+   
+2. **Open the Terminal** - Typically, you can do this from a 'Terminal' tab or by using a shortcut (e.g., ```Ctrl + ~``` for Windows or ```Control + ~``` for Mac in VS Code).
+
 3. **Clone the Repository and Navigate into the Directory** - Once your terminal is open, you can clone the repository and move into the directory by running the commands below.
+
+**For Windows users**🪟
+  ```
+  git clone https://github.com/ENCORD20/reddit-user-persona-AI.git
+  cd reddit-user-persona-ai
+  ```
+
+**For Mac/Linux users**🍎 🐧
+  ```
+  git clone https://github.com/ENCORD20/reddit-user-persona-AI.git
+  cd reddit-user-persona-ai
+  ./setup.sh
+  ```
+
+4. **Follow the setup instructions from the script** - add the appropriate API keys and dependencies (praw, requests) and once all of the services are running, in terminal run:
+
+   ```
+   python main.py
+   ```
+
+When prompted, enter a Reddit user profile URL, such as:
+
+```python
+https://www.reddit.com/user/kojied/
+```
+
+6. **View Output** - The output file will be saved in the ```output/``` folder as a ```.txt``` file
